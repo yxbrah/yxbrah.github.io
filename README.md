@@ -1,20 +1,39 @@
-# Koh Yong Xiang's Portfolio space
-I am a machine learning advocatewhom is actively seeking ==Data Analyst== opportunities
-## Profile
-Github: https://github.com/yxbrah
-Kaggle: https://www.kaggle.com/yongxx
-## Previous projects
 
+# Koh Yong Xiang's Portfolio space</h1>
+<p>I am a machine learning advocate whom is actively seeking Data Analyst opportunities 👨‍🏫 </p>
+<h2>Profile</h2>
+<p>Github: https://github.com/yxbrah</p>
+<p>Kaggle: https://www.kaggle.com/yongxx</p>
 
-Title | Description | Link | Model used
--- | -- | --
-Title | Description | Link | Model used
-1. Date of Birth | 10.938405 | hi | bye
-2. Source of Traffic | 0 | hi | bye
-3. Onboard Wifi Service | 14.574178 | hi | bye
-4. Embarkation/Disembarkation time convenient | 11.680962 | hi | bye
+<h2>Previous Projects</h2>
+<table>
+  <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Model used</th>
+    <th>Link</th>
+  </tr>
+    <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Model used</th>
+    <th>Link</th>
+  </tr>
+    <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Model used</th>
+    <th>Link</th>
+  </tr>
+    <tr>
+    <th>Title</th>
+    <th>Description</th>
+    <th>Model used</th>
+    <th>Link</th>
+  </tr>
+  </table>
 
-## Contact
+<h2>Contact</h2>
 iamkyx @ gmail . com
 
 
