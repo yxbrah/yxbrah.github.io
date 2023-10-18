@@ -11,19 +11,22 @@
     <th>Title</th>
     <th>Description</th>
     <th>Methods used</th>
+    <th>Evaluation Metric</th>
     <th>Link</th>
   </tr>
     <tr>
-    <th>Kaggle public dataset, Spaceship Titanic</th>
-    <th>Classification Problem; 13 Features, 1 Target. To generate prediction for transportation</th>
+    <th>Kaggle dataset, Spaceship Titanic</th>
+    <th>Classification Problem; 13 Features, 1 Target; transported detection (binary)</th>
     <th><ul><li>EDA (Plotly)</li> <li>Feature Engineering</li><li>Scaling</li> <li>XGBoost</li><li>GridsearchCV</li></ul></th>
-    <th>https://github.com/yxbrah/Spaceship_Titanic_Kaggle</th>
+      <th>ROC_AUC</th>
+    <th>https://github.com/yxbrah/Kaggle_Projects/tree/main/Spaceship_Titanic_Kaggle</th>
   </tr>
     <tr>
-    <th>Title</th>
-    <th>Description</th>
-    <th>Model used</th>
-    <th>Link</th>
+    <th>Kaggle playground series, Software defects dataset</th>
+    <th>Classification Problem; 22 features, 1 target; defects detection (binary)</th>
+    <th><ul><li>Correlation heat map</li><li>Scaling</li> <li>XGBoost</li><li>GridsearchCV</li></ul></th>
+      <th>ROC_AUC</th>
+    <th>https://github.com/yxbrah/Kaggle_Projects/tree/main/Binary_classification_software_defect</th>
   </tr>
     <tr>
     <th>Title</th>
